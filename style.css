@@ -1,0 +1,24 @@
+.head1{
+    text-align: center;
+    background-color: rgb(19, 58, 165);
+    color: bisque;
+}
+.id{
+    background-color: rgb(122, 113, 113);
+}
+.head2{
+    background-color: rgb(13, 207, 13);
+    color: rgba(0, 0, 0, 0.822);
+    text-align: right;
+    
+}
+.head3{
+    background-color: rgb(13, 207, 13);
+    color: black;
+    text-align: right;
+}
+
+.head4{
+ text-decoration: line-through;
+    color: hsl(0, 0%, 100%);
+}
